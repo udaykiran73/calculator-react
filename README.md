@@ -7,4 +7,5 @@ Start the app using "npm start"
 The app will be running at https://localhost:3000.
 
 After redirecting to the link, 
-![Screenshot 2024-01-31 205947](https://github.com/udaykiran73/calculator-react/assets/143659823/34765f95-def2-4c01-a26d-9dcafaf8d073)
+
+<img src=""C:\Users\alimi\OneDrive\Documents\Custom Office Templates\docs\Pictures\Screenshots\Screenshot 2024-01-31 205947.png"" width="400" height="300">
