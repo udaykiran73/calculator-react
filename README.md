@@ -8,4 +8,5 @@ The app will be running at https://localhost:3000.
 
 After redirecting to the link, 
 
-<img src=""C:\Users\alimi\OneDrive\Documents\Custom Office Templates\docs\Pictures\Screenshots\Screenshot 2024-01-31 205947.png"" width="400" height="300">
+![Screenshot 2024-01-31 205947](https://github.com/udaykiran73/calculator-react/assets/143659823/e5ae1754-a4ae-4745-a518-83925037b8d8){:width="400px" height="300px"}
+
